@@ -98,9 +98,9 @@ your_folder_name/
 ---
 
 ## 📧 Contact
-**Author**: Mr-Bala-Kavi  
-📧 **Email**: [balakavi64@gmail.com](mailto:balakavi64@gmail.com)  
-🌐 **GitHub**: [github.com/mr-bala-kavi](https://github.com/mr-bala-kavi)
+**Author**: pvenkatesh282675-ops
+📧 **Email**: [balakavi64@gmail.com](mailto:p.venkates282675h@gmail.com)  
+🌐 **GitHub**: [github.com/mr-bala-kavi](https://github.com/pvenkatesh282675-ops)
 
 ---
 
@@ -108,3 +108,4 @@ Let me know if you want to add:
 - 🔖 Screenshots of the GUI
 - 🎥 A demo video/GIF
 - ✅ Status badges (like Python version, license, etc.)
+
